@@ -1,0 +1,47 @@
+INTRODUCTION-
+	The Salesforce platform is a group of technologies that supports the development of other technologies on top of it.
+
+	What makes it unique is that the platform supports not only all the Salesforce clouds, but it also supports custom functionality built by our customers and partners. This functionality ranges from simple page layouts to full-scale applications.
+ Lightning Experience-
+ INTRODUCTION-
+	 Salesforce is NOT just a CRM. It stores your customer data, gives you processes to nurture prospective customers, and provides ways to collaborate with people you work with. And it does all those things.
+	 manage sales and help streamline their complicated order creation and fulfillment process.
+	 manage sales and customer service nationwide.
+	 manage existing and potential clients.
+	 to connect their employees and improve the efficiency of home sales.
+	  can use this custom functionality to edit and view information about the properties she’s selling, as well as keep track of her potential buyers.
+	  STANDARD FUNCTIONALITY FOR TRACKING COMMON SALES OBJECTS LIKE ACCOUNTS, CONTACTS, AND LEADS.
+database -
+	 When you put information into Salesforce, it gets stored in the database so you can access it again later. It’s stored in a very specific way so you’re always accessing the information you need.
+	 An app in Salesforce is a set of objects, fields, and other functionality that supports a business process. You can see which app you’re using and switch between apps using the App Launcher (App Launcher icon).
+Objects are tables in the Salesforce database that store a particular kind of information. There are standard objects like Accounts and Contacts and custom objects like the Property object you see in the graphic.
+Records are rows in object database tables. Records are the actual data associated with an object. Here, the 211 Charles Street property is a record.
+Fields are columns in object database tables. Both standard and custom objects have fields. On our Property object, we have fields like Address and Price.
+Another important term that’s hard to capture in a picture is org. Org is short for organization, and it refers to a specific instance of Salesforce. The image here is taken from DreamHouse’s org. Your company can have one or multiple orgs.
+
+Trailhead Playground (TP)  is a special type of DE.
+TP orgs are free and you can have up to 10 of them at a time.
+We even provide you with your own org, called a Trailhead Playground, that you can use to solve hands-on challenges.
+1.Trailhead FOR EVERYONE
+2.Why trailhead playground - Trailhead Playground is an org that you can use for hands-on challenges, learning new features, and testing customizations.
+3.y with social ac-i can access it no matter where i am
+				salesforce - company can see .... u can merge ur account in setting -> merge
+https://trailhead.salesforce.com/trails/learn_salesforce_with_trailhead/modules/trailhead_playground_management/units/create-a-trailhead-playground
+A trail is an ordered group of modules, projects, or both that provides a guided learning path to learning a new skill, product, or role.
+A module covers a single learning topic. While trails are great for learning a comprehensive set of related topics, you can also mix and match modules freely. 
+A module is broken down into units.
+You also earn a badge when you complete a project. A project is a series of hands-on steps that lets you learn Salesforce skills by putting them into practice right away.
+https://trailhead.salesforce.com/en/modules/lex_migration_introduction
+Lightning Experience provides a streamlined user interface with an improved Setup experience and lots of features to help your reps sell faster and smarter. We know you'll love Lightning Experience, which is why your Trailhead Playground uses it by default. 
+superbadges help you learn across an entire feature area by providing a real-life business scenario for which you have to build a solution.
+https://trailhead.salesforce.com/en/superbadges/superbadge_process_automation
+A trailmix is like a mixtape, but of modules, projects, trails, and superbadges instead of songs.
+Use the search bar at the top of the screen to look for something specific
+If you don’t see what you’re looking for and want to start over, click Clear filters.
+You can also see your favorites at any time by clicking your name in the top-right corner of Trailhead and choosing Favorites.
+1.MODULE- A single learning topic
+2.Project vs Hands-on-challenges - a hands-on-challenges is a set of requirements to meet where as project is a step by step instructions
+3. advancing in trailhead by earning badges and points by doing modules and project
+You can start a discussion in the Developer Forum or ask a question in the Trailblazer Community, and another Trailhead user will be more than happy to help if they can.
+https://developer.salesforce.com/forums?communityId=09aF00000004HMGIA2#!/feedtype=RECENT&dc=Trailhead&criteria=ALLQUESTIONS
+https://success.salesforce.com/answers?id=906300000004AYoAAM#!/feedtype=POPULAR&dc=Additional_Products&criteria=OPENQUESTIONS
